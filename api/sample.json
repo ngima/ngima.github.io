@@ -1,0 +1,16 @@
+{
+	"ack": "success",
+	"ack_msg": "",
+	"result": [
+		{
+		"id": "11",
+		"name": "Ngima Sherpa",
+		"description": "<p>Ngima Sherpa is Developer from Nepal</p>",
+		"email": "hello@ngimasherpa.com.np",
+		"phone": "9843201205",
+		"website": "http://www.ngimasherpa.com.np",
+		"address": "Patan, Lalitpur",
+		"image": "http://futsalhub.nepdevs.com/uploads/product/fav8Zj1Y.jpg"
+		}
+	]
+}
