@@ -1,2 +1,2 @@
 # hello #
-Welcome to Ngima github
+Welcome to Ngima github page
