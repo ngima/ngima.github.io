@@ -130,7 +130,7 @@ Mobile app development, Social media marketing and SEO.
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](/tech-companies-in-nepal/LICENSE.md)
 
 ---
 
