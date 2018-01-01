@@ -1,0 +1,22 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514825095502">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="62679492" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-919521x919.svg" crc="3907461610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 919521x919_poster_.png" crc="325549536" ref="index"/>
+    <file name="u114-4.png" crc="4001678779" ref="index"/>
+  </folder>
+  <file name="index.html" crc="134785143" seo="true" mt="1514825083788" redirect="true"/>
+</manifest>
