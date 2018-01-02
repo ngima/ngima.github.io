@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514860422313">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514861215331">
   <folder name="css">
     <file name="site_global.css" crc="4177522734"/>
-    <file name="index.css" crc="466961465" ref="index"/>
+    <file name="index.css" crc="227109745" ref="index"/>
+    <file name="404.css" crc="268434381" ref="404"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -9,19 +10,22 @@
     <file name="fontawesome-webfont.svg" crc="3771442179"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404"/>
+    <file name="museutils.js" crc="3803043152" ref="index:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:404"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:404"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:404"/>
+    <file name="require.js" crc="4157109226" ref="index:404"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-919521x919.svg" crc="3907461610" seo="true" ref="index">
+    <file name="pasted-svg-919521x919.svg" crc="3907461610" seo="true" ref="index:404">
+      <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 919521x919_poster_.png" crc="325549536" ref="index"/>
+    <file name="pasted svg 919521x919_poster_.png" crc="325549536" ref="index:404"/>
     <file name="u114-4.png" crc="4001678779" ref="index"/>
+    <file name="u301-4.png" crc="4001678779" ref="404"/>
   </folder>
-  <file name="index.html" crc="310222711" seo="true" mt="1514860407868" redirect="true"/>
+  <file name="index.html" crc="4172760477" seo="true" mt="1514860513227" redirect="true"/>
+  <file name="404.html" crc="3944118418" seo="true" mt="1514861207096" redirect="true"/>
 </manifest>
