@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514861215331">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514861419568">
   <folder name="css">
     <file name="site_global.css" crc="4177522734"/>
-    <file name="index.css" crc="227109745" ref="index"/>
-    <file name="404.css" crc="268434381" ref="404"/>
+    <file name="index.css" crc="463440064" ref="index"/>
+    <file name="404.css" crc="363028073" ref="404"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -22,10 +22,10 @@
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 919521x919_poster_.png" crc="325549536" ref="index:404"/>
+    <file name="pasted svg 919521x919_poster_.png" crc="325549536" ref="index"/>
     <file name="u114-4.png" crc="4001678779" ref="index"/>
     <file name="u301-4.png" crc="4001678779" ref="404"/>
   </folder>
-  <file name="index.html" crc="4172760477" seo="true" mt="1514860513227" redirect="true"/>
-  <file name="404.html" crc="3944118418" seo="true" mt="1514861207096" redirect="true"/>
+  <file name="index.html" crc="4048515097" seo="true" mt="1514861406511" redirect="true"/>
+  <file name="404.html" crc="4086810079" seo="true" mt="1514861392343" redirect="true"/>
 </manifest>
