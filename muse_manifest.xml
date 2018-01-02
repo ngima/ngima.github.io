@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514859886564">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514860422313">
   <folder name="css">
     <file name="site_global.css" crc="4177522734"/>
-    <file name="index.css" crc="70697723" ref="index"/>
+    <file name="index.css" crc="466961465" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="462672289"/>
@@ -23,5 +23,5 @@
     <file name="pasted svg 919521x919_poster_.png" crc="325549536" ref="index"/>
     <file name="u114-4.png" crc="4001678779" ref="index"/>
   </folder>
-  <file name="index.html" crc="134143702" seo="true" mt="1514859877689" redirect="true"/>
+  <file name="index.html" crc="310222711" seo="true" mt="1514860407868" redirect="true"/>
 </manifest>
