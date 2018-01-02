@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514861617810">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ngima.me" resolutions="1x" timestamp="1514861688638">
   <folder name="css">
     <file name="site_global.css" crc="4177522734"/>
-    <file name="index.css" crc="4171191982" ref="index"/>
+    <file name="index.css" crc="142276305" ref="index"/>
     <file name="404.css" crc="363028073" ref="404"/>
   </folder>
   <folder name="fonts">
@@ -26,6 +26,6 @@
     <file name="u114-4.png" crc="4001678779" ref="index"/>
     <file name="u301-4.png" crc="4001678779" ref="404"/>
   </folder>
-  <file name="index.html" crc="4253033338" seo="true" mt="1514861601393" redirect="true"/>
+  <file name="index.html" crc="464563172" seo="true" mt="1514861677846" redirect="true"/>
   <file name="404.html" crc="4086810079" seo="true" mt="1514861392343" redirect="true"/>
 </manifest>
