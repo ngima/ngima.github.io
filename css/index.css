@@ -368,11 +368,15 @@ footer {
   letter-spacing: .45em;
   width: 8rem;
   text-transform: uppercase;
-  border-bottom: 15px solid #FFFFFF; 
+  border-bottom: 15px solid #80FFFFFF; 
   padding-top: 9rem;
   padding-bottom: 15px;
   margin: 0 auto;
   text-align: center; }
+.page-title:hover {
+  background: url("../images/logo.svg") no-repeat;
+  text-transform: uppercase;
+  border-bottom: 15px solid #FFFFFF; }
 
 .description {
   font-size: 21px;
