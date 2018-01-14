@@ -343,6 +343,9 @@ body {
   background-image: linear-gradient(-46deg, #FF4040 0%, #5300ff 48%, #5300ff  73%, #3904A5 100%), url("../images/body_bg.jpg");
   background-blend-mode: multiply, normal;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
   overflow-x: hidden;
   height: 100vh;
   transition: all 1s ease; }
