@@ -368,7 +368,9 @@ footer {
   letter-spacing: .45em;
   width: 8rem;
   text-transform: uppercase;
+  border-bottom: 15px solid #FFFFFF; 
   padding-top: 9rem;
+  padding-bottom: 15px;
   margin: 0 auto;
   text-align: center; }
 
@@ -381,10 +383,10 @@ footer {
 
 .org-name {
   color: #fff;
-  border-bottom: 2px solid #FF4040; }
+  border-bottom: 2px solid #FFFFFF; }
 
 .org-name:hover {
-  border-bottom: 2px solid rgba(252, 64, 64, 0.6); }
+  border-bottom: 2px solid rgba(252, 252, 252, 0.6); }
 
 .footer-link {
   display: inline-block;
