@@ -1,0 +1,39 @@
+{
+    "success":true,
+    "message":"",
+    "data":{
+      "professional_experience":[
+        {
+          "sort":"1",
+          "company_name":"Exotrac LLC",
+          "company_website":"https://exotrac.com"
+          "from":"April 2017",
+          "to": "Present",
+          "position":"Android Developer",
+          "responsibility":"Responsible to develop high-quality corporate products by analyzing the requirements of clients, designing the system and database allocating tasks to team members, monitoring them and their progress, communicating regularly with  clients and team members regarding status and progress of the project. Develop hardware interface for such as bluetooth scanner, rfid tag and to work in new ideas in company’s private applications. Responsible for personal development of team members.",
+          "projects":[
+            {
+              "sort":"1",
+              "client":"Landstar",
+              "client_website":"https://landstar.com"
+              "project_links":[
+                {
+                  "label":"Lanstar YMS",
+                  "link":"https://landstar.exotrac.com"
+                }
+              ],
+              "details":"Yard Management System for Landstar which manages all the activities that occurs in Yard of Landstar in USA. For Different roles Security, Dock, Dispatch, Full Inspection.",
+              "role":"Android Developer"
+            }
+          ]
+        },
+
+      ],
+      "other_experience":[
+        {
+          "sort":"1",
+          "name":"Working as full stack mobile developer [Android and iOS] in outsourced projects at Nepdev Softwares [team]."
+        }
+      ]
+    }
+}
