@@ -2,7 +2,9 @@
   "success":true,
   "message":"",
   "data":[
-    "sort":"1",
-    "name":"Android SDK"
+    {
+      "sort":"1",
+      "name":"Android SDK"
+    }
   ]
 }
