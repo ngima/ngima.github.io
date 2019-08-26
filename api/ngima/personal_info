@@ -1,0 +1,21 @@
+{
+    "success":true,
+    "message":"",
+    "personal_info":[
+      {
+        "sort":"1",
+        "name":"Address",
+        "value":"Kathmandu, Nepal"
+      },
+      {
+        "sort":"2",
+        "name":"Contact Number",
+        "value":"+977-9843201205"
+      },
+      {
+        "sort":"3",
+        "name":"Nationality",
+        "value":"Kathmandu, Nepal"
+      }
+    ]
+}
