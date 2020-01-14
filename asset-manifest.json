@@ -1,13 +1,32 @@
 {
-  "main.css": "/static/css/main.14ed588d.chunk.css",
-  "main.js": "/static/js/main.4ec8eab9.chunk.js",
-  "main.js.map": "/static/js/main.4ec8eab9.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.14ed588d.chunk.css.map": "/static/css/main.14ed588d.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.9ad49239f7337bc55f4b3bb205b4a879.js": "/precache-manifest.9ad49239f7337bc55f4b3bb205b4a879.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/black-dashboard-react/static/css/main.26fbb27f.chunk.css",
+    "main.js": "/black-dashboard-react/static/js/main.bb0c90ad.chunk.js",
+    "main.js.map": "/black-dashboard-react/static/js/main.bb0c90ad.chunk.js.map",
+    "runtime-main.js": "/black-dashboard-react/static/js/runtime-main.9e9bff13.js",
+    "runtime-main.js.map": "/black-dashboard-react/static/js/runtime-main.9e9bff13.js.map",
+    "static/css/2.9e63dcda.chunk.css": "/black-dashboard-react/static/css/2.9e63dcda.chunk.css",
+    "static/js/2.c90ff011.chunk.js": "/black-dashboard-react/static/js/2.c90ff011.chunk.js",
+    "static/js/2.c90ff011.chunk.js.map": "/black-dashboard-react/static/js/2.c90ff011.chunk.js.map",
+    "index.html": "/black-dashboard-react/index.html",
+    "precache-manifest.bd204dc7a50e9c680dfed7ae552bb322.js": "/black-dashboard-react/precache-manifest.bd204dc7a50e9c680dfed7ae552bb322.js",
+    "service-worker.js": "/black-dashboard-react/service-worker.js",
+    "static/css/2.9e63dcda.chunk.css.map": "/black-dashboard-react/static/css/2.9e63dcda.chunk.css.map",
+    "static/css/main.26fbb27f.chunk.css.map": "/black-dashboard-react/static/css/main.26fbb27f.chunk.css.map",
+    "static/js/2.c90ff011.chunk.js.LICENSE": "/black-dashboard-react/static/js/2.c90ff011.chunk.js.LICENSE",
+    "static/js/main.bb0c90ad.chunk.js.LICENSE": "/black-dashboard-react/static/js/main.bb0c90ad.chunk.js.LICENSE",
+    "static/media/anime3.png": "/black-dashboard-react/static/media/anime3.bd6820f1.png",
+    "static/media/emilyz.jpg": "/black-dashboard-react/static/media/emilyz.9fcf69e5.jpg",
+    "static/media/logo.png": "/black-dashboard-react/static/media/logo.205d552a.png",
+    "static/media/ngima_sherpa.jpg": "/black-dashboard-react/static/media/ngima_sherpa.eee7d42b.jpg",
+    "static/media/nucleo-icons.css": "/black-dashboard-react/static/media/nucleo.f0b489a5.woff",
+    "static/media/react-logo.png": "/black-dashboard-react/static/media/react-logo.eb6be414.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e9bff13.js",
+    "static/css/2.9e63dcda.chunk.css",
+    "static/js/2.c90ff011.chunk.js",
+    "static/css/main.26fbb27f.chunk.css",
+    "static/js/main.bb0c90ad.chunk.js"
+  ]
 }
